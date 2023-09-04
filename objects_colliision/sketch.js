@@ -55,7 +55,7 @@ class Beyblade {
   display() {
     stroke(255)
     fill(255)
-    fill(255, 255, 127);
+    fill(255, 255, 0, 127);
     ellipse(this.x, this.y, this.d, this.d)
   }
 
