@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Downloads/objects_colliision"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "testEnvironment"
+	}
+}
